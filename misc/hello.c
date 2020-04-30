@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    printf("changed\n");
+    printf("changed this\n");
     char name[] = "Korenx";
     printf("Size: %d\n", sizeof(name));
     printf("Address: %x\n", name);
